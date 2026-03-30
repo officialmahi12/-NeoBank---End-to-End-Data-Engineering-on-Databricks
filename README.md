@@ -1,4 +1,4 @@
-# 🏦 NeoBank Data Platform — End-to-End Data Engineering on Databricks
+# 🏦 NeoBank — End-to-End Data Engineering Pipeline
 
 ## 📌 Overview
 
